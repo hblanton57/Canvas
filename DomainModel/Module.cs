@@ -8,8 +8,7 @@ public class Module
     public Module(string moduleTitle, string moduleDetails){
         title = moduleTitle;
         details = moduleDetails;
-    }
-   
+    }  
 
 }
 
