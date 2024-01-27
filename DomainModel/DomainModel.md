@@ -18,7 +18,6 @@ classDiagram
     }
 
     class Professor {
-        -instructs()
         -gradeAssignment()
         -createAnnouncement()
         -createModule()
