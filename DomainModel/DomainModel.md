@@ -31,21 +31,17 @@ classDiagram
     class Assignment {
         -assignmentTitle : String
         -pointsAvailable : int
-        -pointsReceived : int
-        -dueDate : DateTime
         -assignmentDetails : String
         -rubric : String
     }
 
     class Announcements {
         -announcementTitle : String
-        -postDate : DateTime
         -accouncementDetails : String
     }
 
     class Modules {
         -moduleTitle : String
-        -moduleDate : DateTime
         -modeuleDetails : String
     }
 
